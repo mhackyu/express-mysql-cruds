@@ -42,7 +42,7 @@ $ npm start
 Step 6:
 Browse [localhost:4000](http://localhost:4000) 
 
-And your done!  
+And you're done!  
 
 
 ## Built With
