@@ -1,0 +1,29 @@
+{
+  "name": "express-mysql-cruds",
+  "version": "1.0.0",
+  "description": "simple CRUDS operation in nodejs using express, mysql and ejs package.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "DEBUG=app,app:* nodemon index.js"
+  },
+  "keywords": [
+    "cruds",
+    "nodejs",
+    "express",
+    "mysql",
+    "ejs"
+  ],
+  "author": "mhackyu",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "mysql": "^2.15.0",
+    "nodemon": "^1.17.5"
+  },
+  "devDependencies": {
+    "debug": "^3.1.0"
+  }
+}
