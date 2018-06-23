@@ -1,6 +1,6 @@
 # express-mysql-cruds
 
-Simple CRUDS operation in nodejs using express, mysql and ejs package. [Demo](https://limitless-wave-73560.herokuapp.com/)
+Simple CRUDS operation in nodejs using express, mysql and ejs package.
 
 ## Getting Started
 
