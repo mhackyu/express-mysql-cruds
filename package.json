@@ -21,7 +21,7 @@
     "ejs": "^3.0.2",
     "express": "^4.17.1",
     "mysql": "^2.15.0",
-    "nodemon": "^1.17.5"
+    "nodemon": "^2.0.8"
   },
   "devDependencies": {
     "debug": "^4.1.1",
